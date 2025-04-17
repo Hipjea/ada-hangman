@@ -1,0 +1,12 @@
+name = "hangman"
+description = "Hangman game"
+version = "0.1.0-dev"
+
+authors = ["Hipjea"]
+maintainers = ["Hipjea <hipjea@gmail.com>"]
+maintainers-logins = ["hipjea"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["hangman"]
